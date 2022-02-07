@@ -1,2 +1,2 @@
 # ProfilArama
-api ile profil arama 
+api kullanarak basit profil arama.
